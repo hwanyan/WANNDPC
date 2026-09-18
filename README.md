@@ -114,7 +114,7 @@ print("Cluster centers:", model.ClusterCenters)   # indices of cluster centers
 
 If you use this code in your research, please cite the published paper:
 
-> Xie, J., Yan, H., Wang, M., Grant, P. W., & Pedrycz, W. (2026).
+> Xie, J., Yan, H., Wang, M., Grant, P. W., & Pedrycz, W. (2025).
 > WANN-DPC: Density peaks finding clustering based on Weighted Adaptive
 > Nearest Neighbors. *Pattern Recognition*, 170, 111953.
 > https://doi.org/10.1016/j.patcog.2025.111953
@@ -122,7 +122,7 @@ If you use this code in your research, please cite the published paper:
 BibTeX:
 
 ```bibtex
-@article{yan2026wanndpc,
+@article{yan2025wanndpc,
     title   = {WANN-DPC: Density peaks finding clustering based on
                 Weighted Adaptive Nearest Neighbors},
     author  = {Xie, Juanying and Yan, Huan and Wang, Mingzhao and
@@ -130,7 +130,7 @@ BibTeX:
     journal = {Pattern Recognition},
     volume  = {170},
     pages   = {111953},
-    year    = {2026},
+    year    = {2025},
     doi     = {10.1016/j.patcog.2025.111953}
 }
 ```
